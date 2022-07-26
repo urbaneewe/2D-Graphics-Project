@@ -1,0 +1,185 @@
+D:\!FTN\!RG VEZBE\2019-2020\UVOD\GMapPocetak\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\!FTN\!RG VEZBE\2019-2020\UVOD\GMapPocetak\WpfApp1\obj\Debug\App.g.cs
+D:\!FTN\!RG VEZBE\2019-2020\UVOD\GMapPocetak\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\!FTN\!RG VEZBE\2019-2020\UVOD\GMapPocetak\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+D:\!FTN\!RG VEZBE\2019-2020\UVOD\GMapPocetak\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\!FTN\!RG VEZBE\2019-2020\UVOD\GMapPocetak\WpfApp1\bin\Debug\WpfApp1.exe
+D:\!FTN\!RG VEZBE\2019-2020\UVOD\GMapPocetak\WpfApp1\bin\Debug\WpfApp1.pdb
+D:\!FTN\!RG VEZBE\2019-2020\UVOD\GMapPocetak\WpfApp1\bin\Debug\GMap.NET.Core.dll
+D:\!FTN\!RG VEZBE\2019-2020\UVOD\GMapPocetak\WpfApp1\bin\Debug\GMap.NET.WindowsForms.dll
+D:\!FTN\!RG VEZBE\2019-2020\UVOD\GMapPocetak\WpfApp1\bin\Debug\GMap.NET.Core.xml
+D:\!FTN\!RG VEZBE\2019-2020\UVOD\GMapPocetak\WpfApp1\bin\Debug\GMap.NET.WindowsForms.xml
+D:\!FTN\!RG VEZBE\2019-2020\UVOD\GMapPocetak\WpfApp1\obj\Debug\MainWindow.baml
+D:\!FTN\!RG VEZBE\2019-2020\UVOD\GMapPocetak\WpfApp1\obj\Debug\WpfApp1.g.resources
+D:\!FTN\!RG VEZBE\2019-2020\UVOD\GMapPocetak\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\!FTN\!RG VEZBE\2019-2020\UVOD\GMapPocetak\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+D:\!FTN\!RG VEZBE\2019-2020\UVOD\GMapPocetak\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+D:\!FTN\!RG VEZBE\2019-2020\UVOD\GMapPocetak\WpfApp1\obj\Debug\WpfApp1.exe
+D:\!FTN\!RG VEZBE\2019-2020\UVOD\GMapPocetak\WpfApp1\obj\Debug\WpfApp1.pdb
+D:\!FTN\!RG VEZBE\2019-2020\UVOD\GMapZavrsen\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\!FTN\!RG VEZBE\2019-2020\UVOD\GMapZavrsen\WpfApp1\bin\Debug\WpfApp1.exe
+D:\!FTN\!RG VEZBE\2019-2020\UVOD\GMapZavrsen\WpfApp1\bin\Debug\WpfApp1.pdb
+D:\!FTN\!RG VEZBE\2019-2020\UVOD\GMapZavrsen\WpfApp1\bin\Debug\GMap.NET.Core.dll
+D:\!FTN\!RG VEZBE\2019-2020\UVOD\GMapZavrsen\WpfApp1\bin\Debug\GMap.NET.WindowsForms.dll
+D:\!FTN\!RG VEZBE\2019-2020\UVOD\GMapZavrsen\WpfApp1\bin\Debug\GMap.NET.Core.xml
+D:\!FTN\!RG VEZBE\2019-2020\UVOD\GMapZavrsen\WpfApp1\bin\Debug\GMap.NET.WindowsForms.xml
+D:\!FTN\!RG VEZBE\2019-2020\UVOD\GMapZavrsen\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+D:\!FTN\!RG VEZBE\2019-2020\UVOD\GMapZavrsen\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\!FTN\!RG VEZBE\2019-2020\UVOD\GMapZavrsen\WpfApp1\obj\Debug\App.g.cs
+D:\!FTN\!RG VEZBE\2019-2020\UVOD\GMapZavrsen\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\!FTN\!RG VEZBE\2019-2020\UVOD\GMapZavrsen\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+D:\!FTN\!RG VEZBE\2019-2020\UVOD\GMapZavrsen\WpfApp1\obj\Debug\MainWindow.baml
+D:\!FTN\!RG VEZBE\2019-2020\UVOD\GMapZavrsen\WpfApp1\obj\Debug\WpfApp1.g.resources
+D:\!FTN\!RG VEZBE\2019-2020\UVOD\GMapZavrsen\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\!FTN\!RG VEZBE\2019-2020\UVOD\GMapZavrsen\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+D:\!FTN\!RG VEZBE\2019-2020\UVOD\GMapZavrsen\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+D:\!FTN\!RG VEZBE\2019-2020\UVOD\GMapZavrsen\WpfApp1\obj\Debug\WpfApp1.exe
+D:\!FTN\!RG VEZBE\2019-2020\UVOD\GMapZavrsen\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\AS\Desktop\Fakultet\VIII semestar\Grafika\PZ1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\AS\Desktop\Fakultet\VIII semestar\Grafika\PZ1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\AS\Desktop\Fakultet\VIII semestar\Grafika\PZ1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\AS\Desktop\Fakultet\VIII semestar\Grafika\PZ1\WpfApp1\bin\Debug\GMap.NET.Core.dll
+C:\Users\AS\Desktop\Fakultet\VIII semestar\Grafika\PZ1\WpfApp1\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\AS\Desktop\Fakultet\VIII semestar\Grafika\PZ1\WpfApp1\bin\Debug\GMap.NET.Core.xml
+C:\Users\AS\Desktop\Fakultet\VIII semestar\Grafika\PZ1\WpfApp1\bin\Debug\GMap.NET.WindowsForms.xml
+C:\Users\AS\Desktop\Fakultet\VIII semestar\Grafika\PZ1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\AS\Desktop\Fakultet\VIII semestar\Grafika\PZ1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\AS\Desktop\Fakultet\VIII semestar\Grafika\PZ1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\AS\Desktop\Fakultet\VIII semestar\Grafika\PZ1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\AS\Desktop\Fakultet\VIII semestar\Grafika\PZ1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\AS\Desktop\Fakultet\VIII semestar\Grafika\PZ1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\AS\Desktop\Fakultet\VIII semestar\Grafika\PZ1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\AS\Desktop\Fakultet\VIII semestar\Grafika\PZ1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\AS\Desktop\Fakultet\VIII semestar\Grafika\PZ1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\AS\Desktop\Fakultet\VIII semestar\Grafika\PZ1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\AS\Desktop\Fakultet\VIII semestar\Grafika\PZ1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\AS\Desktop\Fakultet\VIII semestar\Grafika\PZ1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\TEMP.FTN.004\Desktop\PZ1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\TEMP.FTN.004\Desktop\PZ1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\TEMP.FTN.004\Desktop\PZ1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\TEMP.FTN.004\Desktop\PZ1\WpfApp1\bin\Debug\GMap.NET.Core.dll
+C:\Users\TEMP.FTN.004\Desktop\PZ1\WpfApp1\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\TEMP.FTN.004\Desktop\PZ1\WpfApp1\bin\Debug\GMap.NET.Core.xml
+C:\Users\TEMP.FTN.004\Desktop\PZ1\WpfApp1\bin\Debug\GMap.NET.WindowsForms.xml
+C:\Users\TEMP.FTN.004\Desktop\PZ1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\TEMP.FTN.004\Desktop\PZ1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\TEMP.FTN.004\Desktop\PZ1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\TEMP.FTN.004\Desktop\PZ1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\TEMP.FTN.004\Desktop\PZ1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\TEMP.FTN.004\Desktop\PZ1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\TEMP.FTN.004\Desktop\PZ1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\TEMP.FTN.004\Desktop\PZ1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\TEMP.FTN.004\Desktop\PZ1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\TEMP.FTN.004\Desktop\PZ1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\TEMP.FTN.004\Desktop\PZ1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\TEMP.FTN.004\Desktop\PZ1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\TEMP.FTN.004\Desktop\PZ1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\AS\Desktop\Fakultet\VIII semestar\Grafika\PZ1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\AS\Desktop\Fakultet\VIII semestar\Grafika\PZ1\WpfApp1\obj\Debug\EllipseWindow.g.cs
+C:\Users\AS\Desktop\Fakultet\VIII semestar\Grafika\PZ1\WpfApp1\obj\Debug\EllipseWindow.baml
+C:\Users\AS\Desktop\Fakultet\VIII semestar\Grafika\PZ1\WpfApp1\obj\Debug\PolygonWindow.g.cs
+C:\Users\AS\Desktop\Fakultet\VIII semestar\Grafika\PZ1\WpfApp1\obj\Debug\PolygonWindow.baml
+C:\Users\AS\Desktop\Fakultet\VIII semestar\Grafika\PZ1\WpfApp1\obj\Debug\TextWindow.g.cs
+C:\Users\AS\Desktop\Fakultet\VIII semestar\Grafika\PZ1\WpfApp1\obj\Debug\TextWindow.baml
+C:\Users\AS\Desktop\Fakultet\VIII semestar\Grafika\PZ1\WpfApp1\obj\Debug\EditEllipseWindow.g.cs
+C:\Users\AS\Desktop\Fakultet\VIII semestar\Grafika\PZ1\WpfApp1\obj\Debug\EditPolygonWindow.g.cs
+C:\Users\AS\Desktop\Fakultet\VIII semestar\Grafika\PZ1\WpfApp1\obj\Debug\EditTextWindow.g.cs
+C:\Users\AS\Desktop\Fakultet\VIII semestar\Grafika\PZ1\WpfApp1\obj\Debug\EditEllipseWindow.baml
+C:\Users\AS\Desktop\Fakultet\VIII semestar\Grafika\PZ1\WpfApp1\obj\Debug\EditPolygonWindow.baml
+C:\Users\AS\Desktop\Fakultet\VIII semestar\Grafika\PZ1\WpfApp1\obj\Debug\EditTextWindow.baml
+C:\Users\Mihajlo Saric\Desktop\Grupa469\Grafika\PZ1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Mihajlo Saric\Desktop\Grupa469\Grafika\PZ1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Mihajlo Saric\Desktop\Grupa469\Grafika\PZ1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Mihajlo Saric\Desktop\Grupa469\Grafika\PZ1\WpfApp1\bin\Debug\GMap.NET.Core.dll
+C:\Users\Mihajlo Saric\Desktop\Grupa469\Grafika\PZ1\WpfApp1\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\Mihajlo Saric\Desktop\Grupa469\Grafika\PZ1\WpfApp1\bin\Debug\GMap.NET.Core.xml
+C:\Users\Mihajlo Saric\Desktop\Grupa469\Grafika\PZ1\WpfApp1\bin\Debug\GMap.NET.WindowsForms.xml
+C:\Users\Mihajlo Saric\Desktop\Grupa469\Grafika\PZ1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\Mihajlo Saric\Desktop\Grupa469\Grafika\PZ1\WpfApp1\obj\Debug\EditEllipseWindow.g.cs
+C:\Users\Mihajlo Saric\Desktop\Grupa469\Grafika\PZ1\WpfApp1\obj\Debug\EditPolygonWindow.g.cs
+C:\Users\Mihajlo Saric\Desktop\Grupa469\Grafika\PZ1\WpfApp1\obj\Debug\EditTextWindow.g.cs
+C:\Users\Mihajlo Saric\Desktop\Grupa469\Grafika\PZ1\WpfApp1\obj\Debug\EllipseWindow.g.cs
+C:\Users\Mihajlo Saric\Desktop\Grupa469\Grafika\PZ1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Mihajlo Saric\Desktop\Grupa469\Grafika\PZ1\WpfApp1\obj\Debug\PolygonWindow.g.cs
+C:\Users\Mihajlo Saric\Desktop\Grupa469\Grafika\PZ1\WpfApp1\obj\Debug\TextWindow.g.cs
+C:\Users\Mihajlo Saric\Desktop\Grupa469\Grafika\PZ1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Mihajlo Saric\Desktop\Grupa469\Grafika\PZ1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Mihajlo Saric\Desktop\Grupa469\Grafika\PZ1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Mihajlo Saric\Desktop\Grupa469\Grafika\PZ1\WpfApp1\obj\Debug\EditEllipseWindow.baml
+C:\Users\Mihajlo Saric\Desktop\Grupa469\Grafika\PZ1\WpfApp1\obj\Debug\EditPolygonWindow.baml
+C:\Users\Mihajlo Saric\Desktop\Grupa469\Grafika\PZ1\WpfApp1\obj\Debug\EditTextWindow.baml
+C:\Users\Mihajlo Saric\Desktop\Grupa469\Grafika\PZ1\WpfApp1\obj\Debug\EllipseWindow.baml
+C:\Users\Mihajlo Saric\Desktop\Grupa469\Grafika\PZ1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Mihajlo Saric\Desktop\Grupa469\Grafika\PZ1\WpfApp1\obj\Debug\PolygonWindow.baml
+C:\Users\Mihajlo Saric\Desktop\Grupa469\Grafika\PZ1\WpfApp1\obj\Debug\TextWindow.baml
+C:\Users\Mihajlo Saric\Desktop\Grupa469\Grafika\PZ1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Mihajlo Saric\Desktop\Grupa469\Grafika\PZ1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Mihajlo Saric\Desktop\Grupa469\Grafika\PZ1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Mihajlo Saric\Desktop\Grupa469\Grafika\PZ1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Mihajlo Saric\Desktop\Grupa469\Grafika\PZ1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\Mihajlo Saric\Desktop\Grupa469\Grafika\PZ1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Mihajlo Saric\Desktop\Grupa469\Grafika\PZ1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Mihajlo Saric\Desktop\Grafika_Projekat_1\Grafika\PZ1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Mihajlo Saric\Desktop\Grafika_Projekat_1\Grafika\PZ1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Mihajlo Saric\Desktop\Grafika_Projekat_1\Grafika\PZ1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Mihajlo Saric\Desktop\Grafika_Projekat_1\Grafika\PZ1\WpfApp1\bin\Debug\GMap.NET.Core.dll
+C:\Users\Mihajlo Saric\Desktop\Grafika_Projekat_1\Grafika\PZ1\WpfApp1\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\Mihajlo Saric\Desktop\Grafika_Projekat_1\Grafika\PZ1\WpfApp1\bin\Debug\GMap.NET.Core.xml
+C:\Users\Mihajlo Saric\Desktop\Grafika_Projekat_1\Grafika\PZ1\WpfApp1\bin\Debug\GMap.NET.WindowsForms.xml
+C:\Users\Mihajlo Saric\Desktop\Grafika_Projekat_1\Grafika\PZ1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\Mihajlo Saric\Desktop\Grafika_Projekat_1\Grafika\PZ1\WpfApp1\obj\Debug\EditEllipseWindow.g.cs
+C:\Users\Mihajlo Saric\Desktop\Grafika_Projekat_1\Grafika\PZ1\WpfApp1\obj\Debug\EditPolygonWindow.g.cs
+C:\Users\Mihajlo Saric\Desktop\Grafika_Projekat_1\Grafika\PZ1\WpfApp1\obj\Debug\EditTextWindow.g.cs
+C:\Users\Mihajlo Saric\Desktop\Grafika_Projekat_1\Grafika\PZ1\WpfApp1\obj\Debug\EllipseWindow.g.cs
+C:\Users\Mihajlo Saric\Desktop\Grafika_Projekat_1\Grafika\PZ1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Mihajlo Saric\Desktop\Grafika_Projekat_1\Grafika\PZ1\WpfApp1\obj\Debug\PolygonWindow.g.cs
+C:\Users\Mihajlo Saric\Desktop\Grafika_Projekat_1\Grafika\PZ1\WpfApp1\obj\Debug\TextWindow.g.cs
+C:\Users\Mihajlo Saric\Desktop\Grafika_Projekat_1\Grafika\PZ1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Mihajlo Saric\Desktop\Grafika_Projekat_1\Grafika\PZ1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Mihajlo Saric\Desktop\Grafika_Projekat_1\Grafika\PZ1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Mihajlo Saric\Desktop\Grafika_Projekat_1\Grafika\PZ1\WpfApp1\obj\Debug\EditEllipseWindow.baml
+C:\Users\Mihajlo Saric\Desktop\Grafika_Projekat_1\Grafika\PZ1\WpfApp1\obj\Debug\EditPolygonWindow.baml
+C:\Users\Mihajlo Saric\Desktop\Grafika_Projekat_1\Grafika\PZ1\WpfApp1\obj\Debug\EditTextWindow.baml
+C:\Users\Mihajlo Saric\Desktop\Grafika_Projekat_1\Grafika\PZ1\WpfApp1\obj\Debug\EllipseWindow.baml
+C:\Users\Mihajlo Saric\Desktop\Grafika_Projekat_1\Grafika\PZ1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Mihajlo Saric\Desktop\Grafika_Projekat_1\Grafika\PZ1\WpfApp1\obj\Debug\PolygonWindow.baml
+C:\Users\Mihajlo Saric\Desktop\Grafika_Projekat_1\Grafika\PZ1\WpfApp1\obj\Debug\TextWindow.baml
+C:\Users\Mihajlo Saric\Desktop\Grafika_Projekat_1\Grafika\PZ1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Mihajlo Saric\Desktop\Grafika_Projekat_1\Grafika\PZ1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Mihajlo Saric\Desktop\Grafika_Projekat_1\Grafika\PZ1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Mihajlo Saric\Desktop\Grafika_Projekat_1\Grafika\PZ1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Mihajlo Saric\Desktop\Grafika_Projekat_1\Grafika\PZ1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\Mihajlo Saric\Desktop\Grafika_Projekat_1\Grafika\PZ1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Mihajlo Saric\Desktop\Grafika_Projekat_1\Grafika\PZ1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Mihajlo\Desktop\Grafika_Projekat_1\Grafika\PZ1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Mihajlo\Desktop\Grafika_Projekat_1\Grafika\PZ1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Mihajlo\Desktop\Grafika_Projekat_1\Grafika\PZ1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Mihajlo\Desktop\Grafika_Projekat_1\Grafika\PZ1\WpfApp1\bin\Debug\GMap.NET.Core.dll
+C:\Users\Mihajlo\Desktop\Grafika_Projekat_1\Grafika\PZ1\WpfApp1\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\Mihajlo\Desktop\Grafika_Projekat_1\Grafika\PZ1\WpfApp1\bin\Debug\GMap.NET.Core.xml
+C:\Users\Mihajlo\Desktop\Grafika_Projekat_1\Grafika\PZ1\WpfApp1\bin\Debug\GMap.NET.WindowsForms.xml
+C:\Users\Mihajlo\Desktop\Grafika_Projekat_1\Grafika\PZ1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\Mihajlo\Desktop\Grafika_Projekat_1\Grafika\PZ1\WpfApp1\obj\Debug\EditEllipseWindow.g.cs
+C:\Users\Mihajlo\Desktop\Grafika_Projekat_1\Grafika\PZ1\WpfApp1\obj\Debug\EditPolygonWindow.g.cs
+C:\Users\Mihajlo\Desktop\Grafika_Projekat_1\Grafika\PZ1\WpfApp1\obj\Debug\EditTextWindow.g.cs
+C:\Users\Mihajlo\Desktop\Grafika_Projekat_1\Grafika\PZ1\WpfApp1\obj\Debug\EllipseWindow.g.cs
+C:\Users\Mihajlo\Desktop\Grafika_Projekat_1\Grafika\PZ1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Mihajlo\Desktop\Grafika_Projekat_1\Grafika\PZ1\WpfApp1\obj\Debug\PolygonWindow.g.cs
+C:\Users\Mihajlo\Desktop\Grafika_Projekat_1\Grafika\PZ1\WpfApp1\obj\Debug\TextWindow.g.cs
+C:\Users\Mihajlo\Desktop\Grafika_Projekat_1\Grafika\PZ1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Mihajlo\Desktop\Grafika_Projekat_1\Grafika\PZ1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Mihajlo\Desktop\Grafika_Projekat_1\Grafika\PZ1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Mihajlo\Desktop\Grafika_Projekat_1\Grafika\PZ1\WpfApp1\obj\Debug\EditEllipseWindow.baml
+C:\Users\Mihajlo\Desktop\Grafika_Projekat_1\Grafika\PZ1\WpfApp1\obj\Debug\EditPolygonWindow.baml
+C:\Users\Mihajlo\Desktop\Grafika_Projekat_1\Grafika\PZ1\WpfApp1\obj\Debug\EditTextWindow.baml
+C:\Users\Mihajlo\Desktop\Grafika_Projekat_1\Grafika\PZ1\WpfApp1\obj\Debug\EllipseWindow.baml
+C:\Users\Mihajlo\Desktop\Grafika_Projekat_1\Grafika\PZ1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Mihajlo\Desktop\Grafika_Projekat_1\Grafika\PZ1\WpfApp1\obj\Debug\PolygonWindow.baml
+C:\Users\Mihajlo\Desktop\Grafika_Projekat_1\Grafika\PZ1\WpfApp1\obj\Debug\TextWindow.baml
+C:\Users\Mihajlo\Desktop\Grafika_Projekat_1\Grafika\PZ1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Mihajlo\Desktop\Grafika_Projekat_1\Grafika\PZ1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Mihajlo\Desktop\Grafika_Projekat_1\Grafika\PZ1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Mihajlo\Desktop\Grafika_Projekat_1\Grafika\PZ1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Mihajlo\Desktop\Grafika_Projekat_1\Grafika\PZ1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\Mihajlo\Desktop\Grafika_Projekat_1\Grafika\PZ1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Mihajlo\Desktop\Grafika_Projekat_1\Grafika\PZ1\WpfApp1\obj\Debug\WpfApp1.pdb
